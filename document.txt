@@ -1,0 +1,28 @@
+Anthropic is an AI safety company founded in 2021 by Dario Amodei, 
+Daniela Amodei, and other former members of OpenAI. The company is 
+headquartered in San Francisco, California.
+
+Anthropic's main product is Claude, an AI assistant designed to be 
+helpful, harmless, and honest. Claude can help with writing, analysis, 
+coding, math, and many other tasks.
+
+Claude is available in several versions. Claude Haiku is the fastest 
+and most affordable version, suitable for simple tasks. Claude Sonnet 
+balances speed and intelligence, making it ideal for most use cases. 
+Claude Opus is the most intelligent version, best for complex tasks 
+that require deep reasoning.
+
+Anthropic offers Claude through a web interface at claude.ai, and also 
+through an API that developers can use to build applications. The API 
+allows developers to integrate Claude into their own products and 
+services.
+
+Anthropic has raised significant funding from investors including Google 
+and Spark Capital. The company focuses heavily on AI safety research 
+alongside its commercial products. Their research includes work on 
+interpretability, which aims to understand what is happening inside AI 
+models.
+
+Claude uses a context window of up to 200,000 tokens, which allows it 
+to process very long documents in a single request. This is one of the 
+largest context windows available among commercial AI models.
